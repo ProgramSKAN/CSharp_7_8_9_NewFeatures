@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NoMainMethod": {
+      "commandName": "Project",
+      "commandLineArgs": "HelloArg"
+    }
+  }
+}
